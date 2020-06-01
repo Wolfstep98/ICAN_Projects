@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a18d477c-ed44-45dc-8d2f-e0d384fd4a0b}">
+        <property name="assetPath">
+            <value>slime-squishes-and-oozes-sound-effect.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>47.438367346938776</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4ebe9b37-cba9-40b9-8fe4-f9df80128d93}</destination>
+        </relationship>
+    </object>
+</objects>

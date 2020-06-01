@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 540ca87ef46e8ea4ca88b95712b3c83e
+timeCreated: 1526988678
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lien bleu_0
+    21300002: lien bleu_1
+    21300004: lien bleu_2
+    21300006: lien bleu_3
+    21300008: lien bleu_4
+    21300010: lien bleu_5
+    21300012: lien bleu_6
+    21300014: lien bleu_7
+    21300016: lien bleu_8
+    21300018: lien bleu_9
+    21300020: lien bleu_10
+    21300022: lien bleu_11
+    21300024: lien bleu_12
+    21300026: lien bleu_13
+    21300028: lien bleu_14
+    21300030: lien bleu_15
+    21300032: lien bleu_16
+    21300034: lien bleu_17
+    21300036: lien bleu_18
+    21300038: lien bleu_19
+    21300040: lien bleu_20
+    21300042: lien bleu_21
+    21300044: lien bleu_22
+    21300046: lien bleu_23
+    21300048: lien bleu_24
+    21300050: lien bleu_25
+    21300052: lien bleu_26
+    21300054: lien bleu_27
+    21300056: lien bleu_28
+    21300058: lien bleu_29
+    21300060: lien bleu_30
+    21300062: lien bleu_31
+    21300064: lien bleu_32
+    21300066: lien bleu_33
+    21300068: lien bleu_34
+    21300070: lien bleu_35
+    21300072: lien bleu_36
+    21300074: lien bleu_37
+    21300076: lien bleu_38
+    21300078: lien bleu_39
+    21300080: lien bleu_40
+    21300082: lien bleu_41
+    21300084: lien bleu_42
+    21300086: lien bleu_43
+    21300088: lien bleu_44
+    21300090: lien bleu_45
+    21300092: lien bleu_46
+    21300094: lien bleu_47
+    21300096: lien bleu_48
+    21300098: lien bleu_49
+    21300100: lien bleu_50
+    21300102: lien bleu_51
+    21300104: lien bleu_52
+    21300106: lien bleu_53
+    21300108: lien bleu_54
+    21300110: lien bleu_55
+    21300112: lien bleu_56
+    21300114: lien bleu_57
+    21300116: lien bleu_58
+    21300118: lien bleu_59
+    21300120: lien bleu_60
+    21300122: lien bleu_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lien bleu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_1
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_2
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_3
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_4
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_5
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_6
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_7
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 1463
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_9
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_10
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_11
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_12
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_13
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_14
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_15
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 1254
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_17
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_18
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_19
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_20
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_21
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_22
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_23
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 1045
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_25
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_26
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_27
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_28
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_29
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_30
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_31
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 836
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_33
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_34
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_35
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_36
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_37
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_38
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_39
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 627
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_41
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_42
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_43
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_44
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_45
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_46
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_47
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 418
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_49
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_50
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_51
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_52
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_53
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_54
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_55
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 209
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_57
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_58
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_59
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_60
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu_61
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 0
+        width: 1251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

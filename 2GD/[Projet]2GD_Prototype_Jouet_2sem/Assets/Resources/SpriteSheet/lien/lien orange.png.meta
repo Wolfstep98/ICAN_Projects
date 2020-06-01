@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: c5807bd7bf898da41aac072a4f4d52c7
+timeCreated: 1526988680
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lien orange_0
+    21300002: lien orange_1
+    21300004: lien orange_2
+    21300006: lien orange_3
+    21300008: lien orange_4
+    21300010: lien orange_5
+    21300012: lien orange_6
+    21300014: lien orange_7
+    21300016: lien orange_8
+    21300018: lien orange_9
+    21300020: lien orange_10
+    21300022: lien orange_11
+    21300024: lien orange_12
+    21300026: lien orange_13
+    21300028: lien orange_14
+    21300030: lien orange_15
+    21300032: lien orange_16
+    21300034: lien orange_17
+    21300036: lien orange_18
+    21300038: lien orange_19
+    21300040: lien orange_20
+    21300042: lien orange_21
+    21300044: lien orange_22
+    21300046: lien orange_23
+    21300048: lien orange_24
+    21300050: lien orange_25
+    21300052: lien orange_26
+    21300054: lien orange_27
+    21300056: lien orange_28
+    21300058: lien orange_29
+    21300060: lien orange_30
+    21300062: lien orange_31
+    21300064: lien orange_32
+    21300066: lien orange_33
+    21300068: lien orange_34
+    21300070: lien orange_35
+    21300072: lien orange_36
+    21300074: lien orange_37
+    21300076: lien orange_38
+    21300078: lien orange_39
+    21300080: lien orange_40
+    21300082: lien orange_41
+    21300084: lien orange_42
+    21300086: lien orange_43
+    21300088: lien orange_44
+    21300090: lien orange_45
+    21300092: lien orange_46
+    21300094: lien orange_47
+    21300096: lien orange_48
+    21300098: lien orange_49
+    21300100: lien orange_50
+    21300102: lien orange_51
+    21300104: lien orange_52
+    21300106: lien orange_53
+    21300108: lien orange_54
+    21300110: lien orange_55
+    21300112: lien orange_56
+    21300114: lien orange_57
+    21300116: lien orange_58
+    21300118: lien orange_59
+    21300120: lien orange_60
+    21300122: lien orange_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lien orange_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_1
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_2
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_3
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_4
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_5
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_6
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_7
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 896
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_9
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_10
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_11
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_12
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_13
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_14
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_15
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 768
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_17
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_18
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_19
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_20
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_21
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_22
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_23
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 640
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_25
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_26
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_27
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_28
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_29
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_30
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_31
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 512
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_33
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_34
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_35
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_36
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_37
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_38
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_39
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 384
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_41
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_42
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_43
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_44
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_45
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_46
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_47
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 256
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_49
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_50
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_51
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_52
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_53
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_54
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_55
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 128
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_57
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_58
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_59
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_60
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien orange_61
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 0
+        width: 1181
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

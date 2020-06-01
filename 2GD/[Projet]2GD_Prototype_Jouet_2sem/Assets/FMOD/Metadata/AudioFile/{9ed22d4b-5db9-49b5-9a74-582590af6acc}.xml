@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{9ed22d4b-5db9-49b5-9a74-582590af6acc}">
+        <property name="assetPath">
+            <value>contact8.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.1432199546485258</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{660baed9-8408-4541-9fc6-4d6eaa87cb6b}</destination>
+        </relationship>
+    </object>
+</objects>

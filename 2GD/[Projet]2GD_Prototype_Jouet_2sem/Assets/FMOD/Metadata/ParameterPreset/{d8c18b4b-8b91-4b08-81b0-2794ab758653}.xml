@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{d8c18b4b-8b91-4b08-81b0-2794ab758653}">
+        <property name="name">
+            <value>elec</value>
+        </property>
+        <relationship name="folder">
+            <destination>{3f6d6708-49bc-4460-a748-b10dec685f2a}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{4445116b-3297-4758-876c-c82ad37da0d6}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{4445116b-3297-4758-876c-c82ad37da0d6}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+        <property name="seekSpeed">
+            <value>0.34000003337860107</value>
+        </property>
+    </object>
+</objects>

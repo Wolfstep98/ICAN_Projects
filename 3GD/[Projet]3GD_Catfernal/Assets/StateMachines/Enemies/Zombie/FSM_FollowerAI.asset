@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f945e777233a59f4aba40aeca29093a6, type: 3}
+  m_Name: FSM_FollowerAI
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"version":2.91,"type":"NodeCanvas.StateMachines.FSM","translation":{"x":-49.0,"y":-107.0},"nodes":[{"_actionList":{"executionMode":"ActionsRunInParallel","actions":[]},"_position":{"x":458.0,"y":267.0},"_name":"WaitState","_comment":"IA
+    is not moving, stay in the dark.","$type":"NodeCanvas.StateMachines.ActionState","$id":"2"},{"_actionList":{"executionMode":"ActionsRunInParallel","actions":[{"target":{"_name":"player","_targetVariableID":"9180193a-a0ac-4a40-b72a-afe4aa6be3f8"},"path":{"_name":"myAILerp","_targetVariableID":"170d095f-f454-4d72-8042-8f08d3d37381"},"$type":"NodeCanvas.Tasks.Actions.MoveToFirefly"}]},"_position":{"x":640.0,"y":413.0},"_name":"Go
+    to player","$type":"NodeCanvas.StateMachines.ActionState","$id":"5"},{"_actionList":{"executionMode":"ActionsRunInParallel","actions":[{"target":{},"path":{"_name":"myAILerp","_targetVariableID":"170d095f-f454-4d72-8042-8f08d3d37381"},"$type":"NodeCanvas.Tasks.Actions.MoveToFirefly"}]},"_position":{"x":844.0,"y":582.0},"_name":"InLightState","_comment":"When
+    the enemy is in a light halo.","$type":"NodeCanvas.StateMachines.ActionState","$id":"11"},{"_actionList":{"executionMode":"ActionsRunInParallel","actions":[{"player":{"_name":"playerController","_targetVariableID":"01830f63-f924-4df5-8cca-298bb927c215"},"enemy":{"_name":"myAbstractEnemy","_targetVariableID":"9d53f7cb-7697-4dc7-8df2-61cdb9cd112f"},"damage":{"_name":"damageTaken","_targetVariableID":"1725cdad-64c6-4dee-afd9-7a5b481be96c"},"$type":"NodeCanvas.Tasks.Actions.EnemyPlayerCollision"}]},"_position":{"x":997.0,"y":717.0},"_name":"Player
+    Collision","$type":"NodeCanvas.StateMachines.ActionState","$id":"17"},{"_actionList":{"executionMode":"ActionsRunInParallel","actions":[{"target":{},"path":{"_name":"myAILerp","_targetVariableID":"170d095f-f454-4d72-8042-8f08d3d37381"},"$type":"NodeCanvas.Tasks.Actions.MoveToFirefly"}]},"_position":{"x":325.0,"y":417.0},"_name":"Reset","$type":"NodeCanvas.StateMachines.ActionState","$id":"24"}],"connections":[{"_condition":{"checkTarget":{"_name":"player","_targetVariableID":"9180193a-a0ac-4a40-b72a-afe4aa6be3f8"},"checkType":"LessOrEqualTo","distance":{"_value":10.0,"_name":"viewDistance","_targetVariableID":"f7afa94f-4236-460c-b0ea-d13816c93a7a"},"$type":"NodeCanvas.Tasks.Conditions.CheckDistanceToGameObject"},"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"5"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_condition":{"specifiedTagOnly":true,"objectTag":"LightTrigger","saveGameObjectAs":{"_name":""},"$type":"NodeCanvas.Tasks.Conditions.CheckTrigger2D"},"_sourceNode":{"$ref":"5"},"_targetNode":{"$ref":"11"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_condition":{"conditions":[{"CheckType":"TriggerExit","specifiedTagOnly":true,"objectTag":"LightTrigger","saveGameObjectAs":{"_name":""},"$type":"NodeCanvas.Tasks.Conditions.CheckTrigger2D"},{"CheckType":"TriggerStay","specifiedTagOnly":true,"objectTag":"LightTrigger","saveGameObjectAs":{"_name":""},"_invert":true,"$type":"NodeCanvas.Tasks.Conditions.CheckTrigger2D"}],"$type":"NodeCanvas.Framework.ConditionList"},"_sourceNode":{"$ref":"11"},"_targetNode":{"$ref":"5"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_condition":{"specifiedTagOnly":true,"objectTag":"Player","saveGameObjectAs":{"_name":""},"saveContactPoint":{"_name":""},"saveContactNormal":{"_name":""},"$type":"NodeCanvas.Tasks.Conditions.CheckCollision2D"},"_sourceNode":{"$ref":"11"},"_targetNode":{"$ref":"17"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_sourceNode":{"$ref":"17"},"_targetNode":{"$ref":"24"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_sourceNode":{"$ref":"24"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.StateMachines.FSMConnection"}],"localBlackboard":{"_name":"Local
+    Blackboard","_variables":{}}}'
+  _objectReferences: []
+  _deserializationFailed: 0

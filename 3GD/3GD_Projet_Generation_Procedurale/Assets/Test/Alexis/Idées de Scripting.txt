@@ -1,0 +1,2 @@
+Create Path from one point (beginning) to other point (final) to connect all islands (Not totally straight, see Algorythm A)
+/!\  4 Paths only, connect only the 4 biggest islands

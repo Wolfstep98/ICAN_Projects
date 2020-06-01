@@ -1,0 +1,11 @@
+{9485fd7d-9b8a-4a28-803c-f9db257850b5} event:/bouclier
+{d3bdc5a6-4739-452d-9e7b-b0f5c6deb00f} event:/collision
+{5d0a79c5-dbfe-43a4-ae40-57d6e86f5ca1} event:/destroy
+{d0dd525d-633e-41cf-acd6-735536d150ec} event:/hack
+{b818f4a2-f77e-4fca-8610-79438c48cadb} event:/laser
+{71c77a9a-b278-41a9-9701-9334d28c03e9} event:/power_on
+{8dc3fc51-3f12-40da-9105-bfb1bb1e6bef} event:/power_out
+{8349a616-bb12-4d6c-8205-ed9a7aa6d279} event:/shut_down
+{9f7cf214-7371-4fe4-9cf3-8d230db9c78d} bus:/
+{7ab8343d-75db-4f13-953b-a8defbe329e3} bus:/Reverb
+{e3c4650e-e35b-49ed-b3ce-af44f5112bcc} bank:/Master Bank

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c6252e04-78e5-4362-8703-463fab1acfff}">
+        <property name="assetPath">
+            <value>contact6.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.1432199546485258</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{660baed9-8408-4541-9fc6-4d6eaa87cb6b}</destination>
+        </relationship>
+    </object>
+</objects>

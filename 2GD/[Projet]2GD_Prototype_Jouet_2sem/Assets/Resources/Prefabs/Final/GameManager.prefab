@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1507598325780668}
+  m_IsPrefabParent: 1
+--- !u!1 &1507598325780668
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4808434417530166}
+  - component: {fileID: 114302867949035954}
+  - component: {fileID: 114979728886786402}
+  - component: {fileID: 114527577401687110}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4808434417530166
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507598325780668}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114302867949035954
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507598325780668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a425d3149fdd5d64babeba92986448ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partyEnded: 0
+  isInLobby: 0
+  numberOfPlayers: 0
+  gameDuration: 120
+  gameDurationLeft: 0
+  timeBeforeRespawn: 2
+  hack_state: event:/hack
+  timeBetweenBonusSwitches: 15
+  timeBetweenBonusSwitchesLeft: 0
+  isPressingInput: 0
+  timeBeforeValidate: 1
+  timeBeforeValidateLeft: 0
+  timerUI: {fileID: 0}
+  contourUI: {fileID: 0}
+  mainGameManager: {fileID: 0}
+  eventSystem: {fileID: 0}
+  eventsSystem: {fileID: 0}
+  lienUpdater: {fileID: 0}
+  players: []
+  playersPrefab: []
+  circles: []
+  spawners: []
+  bonus: []
+  walls: []
+  links: []
+  winners: []
+  buttonContinue: {fileID: 0}
+  buttonOptions: {fileID: 0}
+  buttonQuitter: {fileID: 0}
+  buttonRecommencer: {fileID: 0}
+  buttonRetourMenu: {fileID: 0}
+--- !u!114 &114527577401687110
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507598325780668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e09c11e288cf64193eb9567aef11db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  black2_state: event:/power_out
+  power_state: event:/power_on
+  currentGameEvents: 0
+  isEventActive: 0
+  timeBetweenEvents: 30
+  eventDuration: 15
+  currentTimer: 0
+  bouncingBallPrefab: {fileID: 0}
+  bouncingBallInstance: {fileID: 0}
+  bouncingBallSpawners: []
+  mainGameManager: {fileID: 0}
+  gameManager: {fileID: 0}
+--- !u!114 &114979728886786402
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507598325780668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2292ec6f9bbb0364baed0ec355ce0b0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bonus: 1
+  valueAmount: 0
+  lienPrefab: {fileID: 1647910063218632, guid: 1ec0b85ec7f93e04b81c6c7dc072bfbb, type: 2}
+  gameManager: {fileID: 0}
+  circles: []
+  players: []
+  liens: []
+  currentColor: []
+  previousColor: []

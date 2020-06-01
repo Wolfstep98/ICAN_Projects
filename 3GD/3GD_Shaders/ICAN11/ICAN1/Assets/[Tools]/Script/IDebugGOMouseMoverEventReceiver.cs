@@ -1,0 +1,5 @@
+﻿
+interface IDebugGOMouseMoverEventReceiver
+{
+    void OnSpace();
+}

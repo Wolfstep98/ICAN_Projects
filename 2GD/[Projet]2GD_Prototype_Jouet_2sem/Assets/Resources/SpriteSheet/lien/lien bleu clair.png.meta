@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 0c45f3074282b7a4e992de0b68e144f5
+timeCreated: 1526988677
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lien bleu clair_0
+    21300002: lien bleu clair_1
+    21300004: lien bleu clair_2
+    21300006: lien bleu clair_3
+    21300008: lien bleu clair_4
+    21300010: lien bleu clair_5
+    21300012: lien bleu clair_6
+    21300014: lien bleu clair_7
+    21300016: lien bleu clair_8
+    21300018: lien bleu clair_9
+    21300020: lien bleu clair_10
+    21300022: lien bleu clair_11
+    21300024: lien bleu clair_12
+    21300026: lien bleu clair_13
+    21300028: lien bleu clair_14
+    21300030: lien bleu clair_15
+    21300032: lien bleu clair_16
+    21300034: lien bleu clair_17
+    21300036: lien bleu clair_18
+    21300038: lien bleu clair_19
+    21300040: lien bleu clair_20
+    21300042: lien bleu clair_21
+    21300044: lien bleu clair_22
+    21300046: lien bleu clair_23
+    21300048: lien bleu clair_24
+    21300050: lien bleu clair_25
+    21300052: lien bleu clair_26
+    21300054: lien bleu clair_27
+    21300056: lien bleu clair_28
+    21300058: lien bleu clair_29
+    21300060: lien bleu clair_30
+    21300062: lien bleu clair_31
+    21300064: lien bleu clair_32
+    21300066: lien bleu clair_33
+    21300068: lien bleu clair_34
+    21300070: lien bleu clair_35
+    21300072: lien bleu clair_36
+    21300074: lien bleu clair_37
+    21300076: lien bleu clair_38
+    21300078: lien bleu clair_39
+    21300080: lien bleu clair_40
+    21300082: lien bleu clair_41
+    21300084: lien bleu clair_42
+    21300086: lien bleu clair_43
+    21300088: lien bleu clair_44
+    21300090: lien bleu clair_45
+    21300092: lien bleu clair_46
+    21300094: lien bleu clair_47
+    21300096: lien bleu clair_48
+    21300098: lien bleu clair_49
+    21300100: lien bleu clair_50
+    21300102: lien bleu clair_51
+    21300104: lien bleu clair_52
+    21300106: lien bleu clair_53
+    21300108: lien bleu clair_54
+    21300110: lien bleu clair_55
+    21300112: lien bleu clair_56
+    21300114: lien bleu clair_57
+    21300116: lien bleu clair_58
+    21300118: lien bleu clair_59
+    21300120: lien bleu clair_60
+    21300122: lien bleu clair_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lien bleu clair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_1
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_2
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_3
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_4
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_5
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_6
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_7
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 1183
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_10
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_11
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_12
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_13
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_14
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_15
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 1014
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_17
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_18
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_19
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_20
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_21
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_22
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_23
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 845
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_25
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_26
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_27
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_28
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_29
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_30
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_31
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 676
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_33
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_34
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_35
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_36
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_37
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_38
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_39
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 507
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_41
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_42
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_43
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_44
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_45
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_46
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_47
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 338
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_49
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_50
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_51
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_52
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_53
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_54
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_55
+      rect:
+        serializedVersion: 2
+        x: 8526
+        y: 169
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_57
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_58
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_59
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_60
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien bleu clair_61
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 0
+        width: 1218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

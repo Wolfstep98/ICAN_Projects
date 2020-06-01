@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MasterTagFolder" id="{0dcc81ca-8f63-42c0-81d6-f323461feea7}">
+        <property name="name">
+            <value>Master</value>
+        </property>
+        <relationship name="items">
+            <destination>{25a0369a-d632-489c-a2d7-bba6a361ab86}</destination>
+            <destination>{14da281f-d2fa-49fa-87cf-92d3510dacd3}</destination>
+            <destination>{258eaccf-14f2-4bb0-89f3-8e3296bec12b}</destination>
+            <destination>{fd607f05-1064-4589-ae01-4f2b4314af19}</destination>
+            <destination>{a1d3654a-bf5f-43af-ad84-e41e73a15330}</destination>
+            <destination>{0ea286e1-794c-4792-84ca-0527ee355fb7}</destination>
+            <destination>{61c0ff5d-53bf-43e8-81b1-8c0e2c45e573}</destination>
+            <destination>{8efac851-d2ea-475a-8f18-0c485db58de5}</destination>
+            <destination>{f11913fd-6525-4d13-a8fe-99414647ccbb}</destination>
+            <destination>{ee275f2b-5e1e-43a6-addd-f446d544b7ec}</destination>
+            <destination>{00aca4ce-94f0-4446-b29f-a391890bd59e}</destination>
+            <destination>{d8e70338-102b-43c4-9256-7ef00b6926de}</destination>
+            <destination>{b36e29ca-74aa-4b06-84dc-2f04fd909483}</destination>
+            <destination>{d8ca7ed3-b090-4314-bcc5-8dbd451c1334}</destination>
+            <destination>{c386f397-a542-4489-8009-26289b5eb727}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{25a0369a-d632-489c-a2d7-bba6a361ab86}">
+        <property name="name">
+            <value>2D</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{14da281f-d2fa-49fa-87cf-92d3510dacd3}">
+        <property name="name">
+            <value>Player</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{258eaccf-14f2-4bb0-89f3-8e3296bec12b}">
+        <property name="name">
+            <value>FlameThrower</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{fd607f05-1064-4589-ae01-4f2b4314af19}">
+        <property name="name">
+            <value>3D</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{a1d3654a-bf5f-43af-ad84-e41e73a15330}">
+        <property name="name">
+            <value>Zombie</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{0ea286e1-794c-4792-84ca-0527ee355fb7}">
+        <property name="name">
+            <value>Zombies</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{61c0ff5d-53bf-43e8-81b1-8c0e2c45e573}">
+        <property name="name">
+            <value>Big</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{8efac851-d2ea-475a-8f18-0c485db58de5}">
+        <property name="name">
+            <value>BigZombie</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{f11913fd-6525-4d13-a8fe-99414647ccbb}">
+        <property name="name">
+            <value>ExplosiveZombie</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{ee275f2b-5e1e-43a6-addd-f446d544b7ec}">
+        <property name="name">
+            <value>Swarm</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{00aca4ce-94f0-4446-b29f-a391890bd59e}">
+        <property name="name">
+            <value>Cell</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{d8e70338-102b-43c4-9256-7ef00b6926de}">
+        <property name="name">
+            <value>Heart</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{b36e29ca-74aa-4b06-84dc-2f04fd909483}">
+        <property name="name">
+            <value>Boss</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{d8ca7ed3-b090-4314-bcc5-8dbd451c1334}">
+        <property name="name">
+            <value>Music</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{c386f397-a542-4489-8009-26289b5eb727}">
+        <property name="name">
+            <value>Dungeon</value>
+        </property>
+        <relationship name="folder">
+            <destination>{0dcc81ca-8f63-42c0-81d6-f323461feea7}</destination>
+        </relationship>
+    </object>
+</objects>

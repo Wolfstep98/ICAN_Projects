@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{5948eb75-ed5c-4a40-94dd-780d2a7e4f14}">
+        <property name="assetPath">
+            <value>2_ZynAddSubFX.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>118.28825396825397</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{660baed9-8408-4541-9fc6-4d6eaa87cb6b}</destination>
+        </relationship>
+    </object>
+</objects>

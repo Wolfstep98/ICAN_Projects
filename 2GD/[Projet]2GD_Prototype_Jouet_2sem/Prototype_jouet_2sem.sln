@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_jouet_2sem", "Prototype_jouet_2sem.csproj", "{DCDC0567-C515-DEFC-E8AA-A130185A196C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_jouet_2sem.Plugins", "Prototype_jouet_2sem.Plugins.csproj", "{23FD5428-8940-3912-1F02-513A7B59E0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_jouet_2sem.Editor.Plugins", "Prototype_jouet_2sem.Editor.Plugins.csproj", "{8C2ED40D-930E-82DC-C998-F52206EC4926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_jouet_2sem.Editor", "Prototype_jouet_2sem.Editor.csproj", "{E975EC79-6B07-D241-CDB0-65D49D1C1E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDC0567-C515-DEFC-E8AA-A130185A196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDC0567-C515-DEFC-E8AA-A130185A196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDC0567-C515-DEFC-E8AA-A130185A196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDC0567-C515-DEFC-E8AA-A130185A196C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FD5428-8940-3912-1F02-513A7B59E0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FD5428-8940-3912-1F02-513A7B59E0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FD5428-8940-3912-1F02-513A7B59E0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FD5428-8940-3912-1F02-513A7B59E0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2ED40D-930E-82DC-C998-F52206EC4926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2ED40D-930E-82DC-C998-F52206EC4926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2ED40D-930E-82DC-C998-F52206EC4926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2ED40D-930E-82DC-C998-F52206EC4926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E975EC79-6B07-D241-CDB0-65D49D1C1E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E975EC79-6B07-D241-CDB0-65D49D1C1E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E975EC79-6B07-D241-CDB0-65D49D1C1E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E975EC79-6B07-D241-CDB0-65D49D1C1E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

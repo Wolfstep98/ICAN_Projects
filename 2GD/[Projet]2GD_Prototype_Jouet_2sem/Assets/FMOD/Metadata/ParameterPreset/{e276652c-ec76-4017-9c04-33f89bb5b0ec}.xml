@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{e276652c-ec76-4017-9c04-33f89bb5b0ec}">
+        <property name="name">
+            <value>melo2</value>
+        </property>
+        <relationship name="folder">
+            <destination>{3f6d6708-49bc-4460-a748-b10dec685f2a}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{b0a2ff2e-1a64-4342-a7fd-dd371e64ab88}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{b0a2ff2e-1a64-4342-a7fd-dd371e64ab88}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+        <property name="seekSpeed">
+            <value>0.74000006914138794</value>
+        </property>
+    </object>
+</objects>

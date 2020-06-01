@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{d767a220-3e67-4898-9c4d-9bf5e99d4b20}">
+        <property name="assetPath">
+            <value>TRAIN_Steam_Train_Idle_01_loop_mono.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.9119954648526076</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4ebe9b37-cba9-40b9-8fe4-f9df80128d93}</destination>
+        </relationship>
+    </object>
+</objects>

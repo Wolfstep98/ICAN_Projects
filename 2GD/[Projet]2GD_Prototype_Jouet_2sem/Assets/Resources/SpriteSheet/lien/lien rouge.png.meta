@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 284c075cba54ede4491051f51de99280
+timeCreated: 1526988678
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lien rouge_0
+    21300002: lien rouge_1
+    21300004: lien rouge_2
+    21300006: lien rouge_3
+    21300008: lien rouge_4
+    21300010: lien rouge_5
+    21300012: lien rouge_6
+    21300014: lien rouge_7
+    21300016: lien rouge_8
+    21300018: lien rouge_9
+    21300020: lien rouge_10
+    21300022: lien rouge_11
+    21300024: lien rouge_12
+    21300026: lien rouge_13
+    21300028: lien rouge_14
+    21300030: lien rouge_15
+    21300032: lien rouge_16
+    21300034: lien rouge_17
+    21300036: lien rouge_18
+    21300038: lien rouge_19
+    21300040: lien rouge_20
+    21300042: lien rouge_21
+    21300044: lien rouge_22
+    21300046: lien rouge_23
+    21300048: lien rouge_24
+    21300050: lien rouge_25
+    21300052: lien rouge_26
+    21300054: lien rouge_27
+    21300056: lien rouge_28
+    21300058: lien rouge_29
+    21300060: lien rouge_30
+    21300062: lien rouge_31
+    21300064: lien rouge_32
+    21300066: lien rouge_33
+    21300068: lien rouge_34
+    21300070: lien rouge_35
+    21300072: lien rouge_36
+    21300074: lien rouge_37
+    21300076: lien rouge_38
+    21300078: lien rouge_39
+    21300080: lien rouge_40
+    21300082: lien rouge_41
+    21300084: lien rouge_42
+    21300086: lien rouge_43
+    21300088: lien rouge_44
+    21300090: lien rouge_45
+    21300092: lien rouge_46
+    21300094: lien rouge_47
+    21300096: lien rouge_48
+    21300098: lien rouge_49
+    21300100: lien rouge_50
+    21300102: lien rouge_51
+    21300104: lien rouge_52
+    21300106: lien rouge_53
+    21300108: lien rouge_54
+    21300110: lien rouge_55
+    21300112: lien rouge_56
+    21300114: lien rouge_57
+    21300116: lien rouge_58
+    21300118: lien rouge_59
+    21300120: lien rouge_60
+    21300122: lien rouge_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lien rouge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_1
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_2
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_3
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_4
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_5
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_6
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_7
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1288
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_10
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_11
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_12
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_13
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_14
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_15
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1104
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_17
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_18
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_19
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_20
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_21
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_22
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_23
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 920
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_25
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_26
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_27
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_28
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_29
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_30
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_31
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 736
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_33
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_34
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_35
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_36
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_37
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_38
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_39
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 552
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_42
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_43
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_44
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_45
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_46
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_47
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 368
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_49
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_50
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_51
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_52
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_53
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_54
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_55
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 184
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_57
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_58
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_59
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_60
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rouge_61
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 0
+        width: 1235
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

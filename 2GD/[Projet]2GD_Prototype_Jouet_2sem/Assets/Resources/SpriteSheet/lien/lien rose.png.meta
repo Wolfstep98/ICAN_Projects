@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 9ca4872987e04c24aa84ebd87142e991
+timeCreated: 1526988679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lien rose_0
+    21300002: lien rose_1
+    21300004: lien rose_2
+    21300006: lien rose_3
+    21300008: lien rose_4
+    21300010: lien rose_5
+    21300012: lien rose_6
+    21300014: lien rose_7
+    21300016: lien rose_8
+    21300018: lien rose_9
+    21300020: lien rose_10
+    21300022: lien rose_11
+    21300024: lien rose_12
+    21300026: lien rose_13
+    21300028: lien rose_14
+    21300030: lien rose_15
+    21300032: lien rose_16
+    21300034: lien rose_17
+    21300036: lien rose_18
+    21300038: lien rose_19
+    21300040: lien rose_20
+    21300042: lien rose_21
+    21300044: lien rose_22
+    21300046: lien rose_23
+    21300048: lien rose_24
+    21300050: lien rose_25
+    21300052: lien rose_26
+    21300054: lien rose_27
+    21300056: lien rose_28
+    21300058: lien rose_29
+    21300060: lien rose_30
+    21300062: lien rose_31
+    21300064: lien rose_32
+    21300066: lien rose_33
+    21300068: lien rose_34
+    21300070: lien rose_35
+    21300072: lien rose_36
+    21300074: lien rose_37
+    21300076: lien rose_38
+    21300078: lien rose_39
+    21300080: lien rose_40
+    21300082: lien rose_41
+    21300084: lien rose_42
+    21300086: lien rose_43
+    21300088: lien rose_44
+    21300090: lien rose_45
+    21300092: lien rose_46
+    21300094: lien rose_47
+    21300096: lien rose_48
+    21300098: lien rose_49
+    21300100: lien rose_50
+    21300102: lien rose_51
+    21300104: lien rose_52
+    21300106: lien rose_53
+    21300108: lien rose_54
+    21300110: lien rose_55
+    21300112: lien rose_56
+    21300114: lien rose_57
+    21300116: lien rose_58
+    21300118: lien rose_59
+    21300120: lien rose_60
+    21300122: lien rose_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lien rose_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_2
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_3
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_4
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_5
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_6
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_7
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 1218
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_10
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_11
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_12
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_13
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_14
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_15
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 1044
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_17
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_18
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_19
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_20
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_21
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_22
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_23
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 870
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_25
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_26
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_27
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_28
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_29
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_30
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_31
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 696
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_33
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_34
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_35
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_36
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_37
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_38
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_39
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 522
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_41
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_42
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_43
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_44
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_45
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_46
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_47
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 348
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_49
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_50
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_51
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_52
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_53
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_54
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_55
+      rect:
+        serializedVersion: 2
+        x: 8582
+        y: 174
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_57
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_58
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_59
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_60
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lien rose_61
+      rect:
+        serializedVersion: 2
+        x: 6130
+        y: 0
+        width: 1226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

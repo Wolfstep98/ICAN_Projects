@@ -1,0 +1,28 @@
+Evaluation en deux parties :
+
+La réponse a l'évaluation doit être envoyé par mail sous forme d'un projet Unity modifié. Le tout doit être zippé, supprimer le répertoire "library" est un plus car il diminue drastiquement la taille du fichier.
+Pour le micro projet, un petit texte (10-15 lignes) expliquant ce qui est fait doit être incorporé dans le mail de réponse.
+
+Le projet utilise le même ensemble de fichier que ceux utilisé en cours [Tools].
+
+Bon courage!
+
+1er partie, corriger des erreurs de compilation (13 Points) : 
+
+- Ouvrir la scene Evaluation.
+- Il y a 12 carrés qui utilisent chacun un ensemble de materiaux Eval0 -> 12. Chacun utilise un shader différent.
+- Les shaders Eval0 -> Eval12 ont une ou plusieurs erreurs de compilation ou autre. Corriger les pour voir le résultat. 
+- Eval9 est spécial mais n'est pas violet.
+- Eval10 et 11 sont utilisés par un meme component et fonctionnent ensemble.
+- Eval12 est un shader dx 11.
+N'hésitez pas a travailler en mode play car il y a des animations.
+
+2de partie, micro projet (7 Points) :
+
+ - Ouvrir la scene MouseShaderLoop.
+ - Lorsqu'on fait "Play" on voit que s'affiche une croix claire autour de la souris. 
+ - Cette croix est faite par un shader "full screen" : MouseShaderFullScreen. Celui ci fait un "grab" c'est a dire qu'il capture l'image juste avant son affichage et s'en sert pour afficher une nouvelle image.
+ - La position de la souris est transmise par le component "MousePositionToMaterial.cs" via un paramêtre de shader global.
+
+Je vous demande de modifier ce shader pour afficher "un feedback de la position de la souris". 
+A noter que vous êtes libre de transmettre d'autres données via les shaders globales comme le fait déjà le component MousePositionToMaterial.

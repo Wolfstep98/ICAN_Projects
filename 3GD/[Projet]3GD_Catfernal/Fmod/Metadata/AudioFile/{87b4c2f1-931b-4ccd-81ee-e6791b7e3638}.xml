@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{87b4c2f1-931b-4ccd-81ee-e6791b7e3638}">
+        <property name="assetPath">
+            <value>Steampunk Weapons - Firestorm Flamer - set_1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.2877083333333332</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4ebe9b37-cba9-40b9-8fe4-f9df80128d93}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{2fa574c8-3fe6-4b7c-86bd-32e97a76b8df}">
+        <property name="assetPath">
+            <value>Dark Rumble LOOP.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>80</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4ebe9b37-cba9-40b9-8fe4-f9df80128d93}</destination>
+        </relationship>
+    </object>
+</objects>
